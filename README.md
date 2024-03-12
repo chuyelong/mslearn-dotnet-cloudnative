@@ -3,7 +3,7 @@
 This repo contains the sample code for all the exercises in the [cloud native learning path for .NET](https://learn.microsoft.com/training/paths/create-microservices-with-dotnet/).
 
 1. Select **Code**.
-2. Select the **Codespaces** tab.
+2. Select the **Codespaces** tab.??
    
    <img src="codespace-with-options.png" width="500" alt="A screenshot showing the New with options menu."/>
    
